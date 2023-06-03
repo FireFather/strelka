@@ -160,7 +160,7 @@ void get_uci_command(void)
 
 	if (!strcmp(string, "uci"))
 	{
-		printf("id name Strelka 2.0 B\n");
+		printf("id name Strelka 2.1\n");
 		printf("id author Jury Osipov\n");
 		printf("option name Hash type spin default 64 min 4 max 512\n");
 		printf("option name MultiPV type spin default 1 min 1 max 100\n");
