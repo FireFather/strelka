@@ -6,6 +6,7 @@ Strelka (the Russian arrow), legendary chess engine from 2007...updated
 - code improvements and optimizations
 - all warnings thru Level4 (/W4) resolved
 - increase in strength (+80 elo in self-play)
+- Visual Studio 2022 project files included
 
 Games Completed = 16384 of 16384 (Avg game length = 9.645 sec)
 Settings = Gauntlet/32MB/1000ms+100ms/M 500cp for 6 moves, D 120 moves/EPD:book.epd(31526)
