@@ -8,6 +8,7 @@ Strelka (the Russian arrow), legendary chess engine from 2007...updated
 - Strelka 2.1 (based on last open-source version 2.0b)
 - now 64-bit
 - code improvements and optimizations
+- separation of terms into specific include files
 - all warnings thru Level4 (/W4) resolved
 - increase in strength (+80 elo in self-play)
 - Visual Studio 2022 project files included
