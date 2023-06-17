@@ -1,11 +1,11 @@
 # strelka
-Strelka (the Russian arrow), legendary chess engine from 2007...updated
+**Strelka (the Russian arrow), legendary chess engine from 2007...updated**
 
 ![alt tag](https://raw.githubusercontent.com/FireFather/strelka/master/logos/strelka-1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/strelka/master/logos/strelka-2.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/strelka/master/logos/strelka-3.bmp)
 
-- Strelka 2.1 (based on last open-source version 2.0b)
+**Strelka 2.1 (based on last open-source version 2.0b)**
 - now 64-bit
 - code improvements and optimizations
 - separation of terms into specific include files
